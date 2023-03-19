@@ -158,6 +158,9 @@ def search(start, end):
                 }
         # Return a JSON list of the minimum temperature, the average temperature, and the maximum temperature for a specified start or start-end range.
         return jsonify(inquiry)
+    
+    except ValueError:
+        return "Invalid date format. Try YYYY-MM-DD.", 400
 
 if __name__ == '__main__':
     app.run()
