@@ -1,4 +1,4 @@
-# sqlalchemy
+# APIs, Apps, SQLAlchemy, and Flask
 This weather analysis uses collected weather data in beautiful Hawaii to measure and visualize percipitation and temperature data. After doing so, I also created an API using flask and python to create a small servable app to visualize this data.
 
 The initial analysis utilizes Jupyter Notebook and the following dependencies:
