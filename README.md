@@ -33,3 +33,6 @@ Next, I used a python script to initialize the following dependencies:
 
 # Conclusion
 With these skills, I have the capabilites to develop real ORM objects that can be served through Flask and html files. This small project is proof of concept: the ability to take data from a database and display it dynamically on the web. 
+
+# [Linkedin Profile](linkedin.com/in/phil-mart) 
+# Email: [Phillip Martinez](PhillipMartinez@my.unt.edu) 
